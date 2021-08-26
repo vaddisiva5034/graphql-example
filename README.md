@@ -1,4 +1,4 @@
-# lco-graphql
+# graphql
 
 A sample graphql seerver
 
