@@ -2,6 +2,6 @@
 
 A sample graphql seerver
 
-steps:
-npm install
-npm start
+# steps:
+- npm install
+- npm start
